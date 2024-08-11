@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "478050226838",
+    "project_id": "fir-android-d2c48",
+    "storage_bucket": "fir-android-d2c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478050226838:android:dfcba9579ed034af8ba8b7",
+        "android_client_info": {
+          "package_name": "alejandro.chango.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3hlgrFDx2vJQRSY1YJOrXO37eaXcBcc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
